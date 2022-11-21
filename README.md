@@ -30,15 +30,27 @@ Aprender a seleccionar resistores adecuados en base a la potencia del circuito e
 
 **2.1.2 Corriente en un circuito en serie**
 
+![image](https://user-images.githubusercontent.com/116696484/202934861-692a8c02-7f22-4f80-9f95-3c5a47155d07.png)
+
 **2.1.4 Aplicación de la ley de Ohm**
+
+![image](https://user-images.githubusercontent.com/116696484/202935783-2d0a6cd5-bc32-463a-8f10-b80a65a0989a.png)
 
 **2.1.5 Fuentes de voltaje en serie**
 
+![image](https://user-images.githubusercontent.com/116696484/202937765-301680c0-4e78-41bc-bf33-54d29bdd62f0.png)
+
 **2.1.6 Ley de voltaje de Kirchhoff**
+
+![image](https://user-images.githubusercontent.com/116696484/202937896-50686043-a2d4-4dd6-a641-34163b3ebddc.png)
 
 **2.1.7 Divisores de voltaje**
 
+![image](https://user-images.githubusercontent.com/116696484/202942983-84f12958-3e3f-4c76-a08e-8f318033c02c.png)
+
 **2.1.8 Potencia en ciruitos en serie**
+
+![image](https://user-images.githubusercontent.com/116696484/202943985-ab9f169f-0174-45f3-acdb-4abd88d6041a.png)
 
 **2.1.9 Mediciones de voltaje**
 
