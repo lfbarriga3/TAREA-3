@@ -22,37 +22,28 @@ Aprender a seleccionar resistores adecuados en base a la potencia del circuito e
 
 ### 2. MARCO TEÓRICO
 
-**2.1 Capítulo 3: Ley de Ohm**
+**2.1 Capítulo 5: Circuitos en serie**
 
-**2.1.1 La relación de corriente, voltaje y resistencia**
+**2.1.1 Resistores en serie**
 
-![RELACIÓN DE CORRIENTE, VOLTAJE Y RESISTENCIA](https://user-images.githubusercontent.com/116696484/202542137-0828f95d-f3bd-42fe-95e1-0dbedc8d6090.jpeg)
+![image](https://user-images.githubusercontent.com/116696484/202933943-b2ee0179-c054-4e6b-8b9b-8bca6cbd4f31.png)
 
-**2.1.1 Introducción a la localización de fallas**
+**2.1.2 Corriente en un circuito en serie**
 
-![INTRODUCCIÓN A LA LOCALIZACIÓN DE FALLAS](https://user-images.githubusercontent.com/116696484/202542269-1cecf761-8a3d-41d7-a9ca-9305ba611f76.jpeg)
+**2.1.4 Aplicación de la ley de Ohm**
 
-**2.2 Capítulo 3: Energía y Potencia**
+**2.1.5 Fuentes de voltaje en serie**
 
-**2.2.1 Energía y potencia**
+**2.1.6 Ley de voltaje de Kirchhoff**
 
-![ENERGÍA Y POTENCIA](https://user-images.githubusercontent.com/116696484/202542568-47f9f8f9-fe02-48da-8034-224a33ea2b12.jpeg)
+**2.1.7 Divisores de voltaje**
 
-**2.2.2 Potencia en un circuito eléctrico**
+**2.1.8 Potencia en ciruitos en serie**
 
-![POTENCIA EN UN CIRCUITO ELÉCTRICO](https://user-images.githubusercontent.com/116696484/202542668-a83ec4c1-4598-4abd-88e1-50b057a63b2a.jpeg)
+**2.1.9 Mediciones de voltaje**
 
-**2.2.3 Potencia nominal en resistores**
+**2.1.10 Localización de fallas**
 
-![POTENCIA NOMINAL EN RESISTORES](https://user-images.githubusercontent.com/116696484/202543237-7405009b-9a90-47ca-b491-c4dd6fc2308a.jpeg)
-
-**2.2.4 Conversión de energía y caída de voltaje en una resistencia**
-
-![Conversión de energía y caída de voltaje en una resistencia](https://user-images.githubusercontent.com/116696484/202543059-b6583d8a-32af-46d6-b5f2-07fafb8ad3d6.jpeg)
-
-**2.2.5 Fuentes de potencia**
-
-![image](https://user-images.githubusercontent.com/116696484/202543471-908b07de-b246-4346-b2d8-37f94cf028bd.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
