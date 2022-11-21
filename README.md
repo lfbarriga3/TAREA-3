@@ -54,8 +54,11 @@ Aprender a seleccionar resistores adecuados en base a la potencia del circuito e
 
 **2.1.9 Mediciones de voltaje**
 
+![image](https://user-images.githubusercontent.com/116696484/202948496-3df6dac6-981c-4f34-a6ae-d5bc6612e5d5.png)
+
 **2.1.10 Localización de fallas**
 
+![image](https://user-images.githubusercontent.com/116696484/202952744-8d3f7fdb-a12f-44f3-824f-b203588dcfab.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
