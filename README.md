@@ -11,7 +11,11 @@ Aprender a calcular la resistencia, voltaje y corriente tanto para circuitos en 
 
 Reconocer la manera en la cual se halla la resistencia total en un circuito serie. 
 
+Identificar circuitos en serie y paralelos 
 
+Determinar la potencia de circuitos en serie y paralelo.
+
+Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en serie como pararalelo.
 
 ### 2. MARCO TEÓRICO
 
@@ -338,9 +342,9 @@ https://youtu.be/91YI7Z-BE1w
 
 ### 5. CONCLUSIONES 
 
-A lo largo del presente informe se ha conocido que la corriente y el voltaje son linealmente proporcionales, es decir que si una de las dos incrementa o dismunuye la otra también la hará en la misma proporción, mientras que con la corriente y la resistencia sucede lo opuesto dado que son inversamente proporciones lo cual implica que si una de estas unidades aumenta, entonces la otra disminuye y viceversa.
+A lo largo del presente informe se ha logrado diferenciar a un circuito serie de un paralelo, además se conocieron características de cada circuito, tales con que en el circuito en serie la corriente es constante y el voltaje se divide, mientras que en el circuito paralelo el voltaje se mantiene constante y la corriente se divide a través de los elementos que sean parte del circuito eléctrico.
 
-Adicionalmente se aprendió que la potencia es la razón de cambio a la cual se utiliza la energía, además de ello se logró comprender la relación que tiene la potencia con la energía, el tiempo, el voltaje, la corriente y la resistencia; de esta manera al final del capítulo 4, a manera de práctica se realizaron ejercicios que permitían hallar la potencia de un circuto eléctrico.
+Adicionalmente se aprendió a identificar las fallas que puedan presentarse al momento de armar el circuito experimentalmente, de tal manera que con los cálculos sea posible solucionar cualquier tipo de falla que pueda aparecer en el circuito eléctrico.
 
 ### 6. BIBLIOGRAFÍA 
 
