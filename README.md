@@ -4,20 +4,13 @@
 
 **1.1 Objetivo General**
 
-Entender las relaciones de proporcionalidad entre: corriente, voltaje y resistencia mediante la ley de ohm de tal manera que al final del capítulo 3 sea posible el cálculo de corriente, resistencia y voltaje en circuitos eléctricos.
-
-Definir términos de energía y potencia mediante investigaciones bibliográficas que permitan entender la relación entre energía y potencia a fin de realizar cálculos que impliquen nuevas unidades eléctricas.
+Aprender a calcular la resistencia, voltaje y corriente tanto para circuitos en serie como para paralelos mediante la aplicación de la LEY DE OHM, divisores de voltaje y corriente, de tal manera que sea posible encontrar cualquier tipo de fallas en los circuitos eléctricos al momento de poner en práctica la teoría adquirida.
 
 
 **1.2 Objetivos Específicos**
 
-Realización de demostraciones gráficas que permitan visualizar la proporcionalidad de I (corriente) con V (voltaje) y V (voltaje) con I (corriente).
+Reconocer la manera en la cual se halla la resistencia total en un circuito serie. 
 
-Entender la definición de caídas de voltaje en un circuto eléctrico 
-
-Analizar las características y propiedades que tiene una fuente de potencia.
-
-Aprender a seleccionar resistores adecuados en base a la potencia del circuito eléctrico.
 
 
 ### 2. MARCO TEÓRICO
@@ -88,6 +81,7 @@ Aprender a seleccionar resistores adecuados en base a la potencia del circuito e
 
 **2.2.7 Potencia en circuitos en paralelo** 
 
+![image](https://user-images.githubusercontent.com/116696484/203864131-72f4cb23-daaa-4b2a-b338-e20a9b678cbe.png)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
