@@ -60,6 +60,24 @@ Aprender a seleccionar resistores adecuados en base a la potencia del circuito e
 
 ![image](https://user-images.githubusercontent.com/116696484/202952744-8d3f7fdb-a12f-44f3-824f-b203588dcfab.png)
 
+**2.2 Capítulo 5: Circuitos en paralelo**
+
+**2.2.1 Resistores en paralelo**
+
+**2.2.2 Voltaje en un circuito en paralelo**
+
+**2.2.3 Ley de las corrientes de Kirchhoff**
+
+**2.2.4  Resistencia total en paralelo**
+
+**2.2.5 Aplicación de la ley de Ohm**
+
+**2.2.6 Fuentes de corriente en paralelo**
+
+**2.2.7 Divisores de corriente**
+
+**2.2.8 Potencia en circuitos en paralelo** 
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
 **CAPÍTULO 3: LEY DE OHM**
