@@ -348,6 +348,8 @@ Adicionalmente se aprendió a identificar las fallas que puedan presentarse al m
 
 ### 6. BIBLIOGRAFÍA 
 
-Macías García, M. E., Contreras Hinojosa, C., Anaya Zamora, R., García, M. E. M., Hinojosa, C. C., & Zamora, R. A. Ley de Ohm.
+Boylestad, R. L. (2004). Introducción al análisis de circuitos. Pearson Educación.
+
+Dorf, R., & Svoboda, J. (2015). Circuitos eléctricos. Alpha Editorial.
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
