@@ -80,152 +80,224 @@ Aprender a seleccionar resistores adecuados en base a la potencia del circuito e
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
-**CAPÍTULO 3: LEY DE OHM**
+**Capítulo 5: Circuitos en serie**
 
-***2. Enuncie la fórmula utilizada para encontrar I cuando los valores de V y R son conocidos.***
+***1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B.***
 
-![image](https://user-images.githubusercontent.com/116696484/202535646-9e44da6c-ae25-47ea-b61f-0a4b6aaaf0b7.png)
+![image](https://user-images.githubusercontent.com/116696484/203850147-040e55b6-4234-44bf-bff0-062263d32cd5.png)
 
-***4. Enuncie la fórmula utilizada para encontrar R cuando los valores de V e I son conocidos***
+***3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.***
 
-![image](https://user-images.githubusercontent.com/116696484/202535707-2e17700f-199d-4b0a-82ff-671c1de79622.png)
+![image](https://user-images.githubusercontent.com/116696484/203850209-a5d37186-1250-42fd-bfce-f1bbf671e199.png)
 
-***6. En cierto circuito, I= 5 mA cuando V= 1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.***
-![image](https://user-images.githubusercontent.com/116696484/202538996-8daa2b96-63ed-4a7a-a3d3-b631bcee898b.png)
+***5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior***
 
-***8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro***
+![image](https://user-images.githubusercontent.com/116696484/203850678-b8cfafa1-d9a2-4cc9-8a23-a3a06bae7c96.png)
 
-![image](https://user-images.githubusercontent.com/116696484/202539345-a3c2298b-fa0e-40cb-9675-65ec81878e88.png)
-![image](https://user-images.githubusercontent.com/116696484/202539464-20eb7bf2-c9f1-4b11-80b3-b04d7ef21c08.png)
+***7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?***
 
-***10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?***
-![image](https://user-images.githubusercontent.com/116696484/202531397-bbbecf9b-0a95-415e-8cf1-3d7ee4aedbb9.png)
+![image](https://user-images.githubusercontent.com/116696484/203850830-95e4e7a4-ccc2-47da-a205-ac9d613f33d3.png)
 
-***12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?***
+***9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático***
 
-![image](https://user-images.githubusercontent.com/116696484/202531852-a5ce779d-8d78-4ab0-8668-a0a33e42783e.png)
+![image](https://user-images.githubusercontent.com/116696484/203850878-e8896c99-d2d6-4b57-a021-f8cab2ec082f.png)
 
-***14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta***
+***11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:***
 
-![image](https://user-images.githubusercontent.com/116696484/202532132-8a6a03ee-03ea-4f4a-abdb-dca58053f6c7.png)
+![image](https://user-images.githubusercontent.com/116696484/203850955-9f8666df-c08d-4051-a947-545c080a7a54.png)
 
-***16. Determine la corriente en cada caso***
+***13. ¿Cuál es la resistencia total de doce resistores de 5.6 k ohmio dispuestos en serie?***
 
-![image](https://user-images.githubusercontent.com/116696484/202532250-99fda6b3-bacd-4919-9e3b-90d4564004db.png)
+![image](https://user-images.githubusercontent.com/116696484/203851044-4cf78490-6131-40c3-81e5-2c1bd86dfbde.png)
 
-***18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor***
+***15. Si en la figura 5-72 la resistencia total es de 17.4 k ohmio, ¿cuál es el valor de R5?***
 
-![image](https://user-images.githubusercontent.com/116696484/202532432-062c4516-7149-4d80-996e-aa0b564ae0bd.png)
+![image](https://user-images.githubusercontent.com/116696484/203851120-625b2ebf-3397-4e93-bb1c-995326a06476.png)
 
-***20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.***
+***17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.***
 
-![image](https://user-images.githubusercontent.com/116696484/202532614-e804f363-6778-490b-9435-3e07b7f86c05.png)
+![image](https://user-images.githubusercontent.com/116696484/203851189-1d923c98-241e-494a-bf9c-6f04f5f53ef8.png)
 
-***22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 V o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente***
+***19. ¿Cuál es la corriente presente en cada circuito de la figura 5-74?***
 
-![image](https://user-images.githubusercontent.com/116696484/202533027-6cd461ab-6744-4bd8-adb6-5d0f319091fc.png)
+![image](https://user-images.githubusercontent.com/116696484/203851248-23b15cb5-a37b-4e8b-93dd-8f55ea61533d.png)
 
-***24. Calcule el voltaje para cada valor de I y R:***
 
-![image](https://user-images.githubusercontent.com/116696484/202533429-7062ba70-6ddf-40da-8f42-9346ebe2ab15.png)
+***21. Se conectan tres resistores de 470 ohmio en serie con una fuente de 48 V. ***
 
-***26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas***
+![image](https://user-images.githubusercontent.com/116696484/203851392-cf2d991d-6ab6-4e00-8242-ce5caa1c5c30.png)
 
-![image](https://user-images.githubusercontent.com/116696484/202533543-daff5cfb-5b9d-4bfe-96fc-f07a4b53276c.png)
+***23. ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?***
 
-***28. Encuentre la resistencia de un reóstato para cada valor de V e I:***
+![image](https://user-images.githubusercontent.com/116696484/203851449-1312ab3b-61d2-4340-b4bf-905f4ad47ec7.png)
 
-![image](https://user-images.githubusercontent.com/116696484/202533642-e8668b49-4d5a-40c6-a40a-dcb3ab156e1e.png)
+***25. En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.***
 
-***30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?***
+![image](https://user-images.githubusercontent.com/116696484/203852135-13a2649b-d269-4a02-8a19-9e341edd7dca.png)
 
-![image](https://user-images.githubusercontent.com/116696484/202533831-6f7436c4-4c4a-42a1-baf5-9e5730fe9cc9.png)
+***27. Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?***
 
-***32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.***
+![image](https://user-images.githubusercontent.com/116696484/203852237-697e9b2a-782e-4cf5-8b11-39cd4bda2ef5.png)
 
-Mediría primero la corriente con el amperímetro conectado al dispositivo eléctrico, posteriormente con la fórmula de la Ley de Ohm calcularía la resistencia del dispositivo eléctrico. (R=I/V)
 
-***34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 ***
+***29. Determine el voltaje de fuente total en cada circuito de la figura 5-79.***
 
-![image](https://user-images.githubusercontent.com/116696484/202534071-51c0e758-6d09-4887-8765-1d3536751a85.png)
+![image](https://user-images.githubusercontent.com/116696484/203852304-cf00125a-9e03-4ec7-b06e-ad8cf0fe606c.png)
 
-***36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.***
+***31. Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?***
 
-![image](https://user-images.githubusercontent.com/116696484/202534176-54301058-2727-4acb-bef3-cada775927a0.png)
+![image](https://user-images.githubusercontent.com/116696484/203852454-dc010da3-22ca-4ed0-83ed-06833e2c3959.png)
 
-**CAPÍTULO 4: ENERGÍA Y POTENCIA**
+***33. En el circuito de la figura 5-81, determine la resistencia de R4.***
 
-***2. Demuestre que hay 3.6x106 joules en un kilowatt-hora.***
+![image](https://user-images.githubusercontent.com/116696484/203852504-fbbb7a28-6aea-4a50-8932-1b05fbba0cd3.png)
 
-![image](https://user-images.githubusercontent.com/116696484/202535895-7086b455-c9ed-45a9-b836-d3ac97de06b9.png)
 
-***4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?***
+***35. Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.***
 
-![image](https://user-images.githubusercontent.com/116696484/202536042-03368e7b-d519-4afa-908c-64bb003435ca.png)
+![image](https://user-images.githubusercontent.com/116696484/203852598-094f0041-c57f-4829-8e44-816ac35071ab.png)
 
-***6. Convierta las siguientes cantidades en kilowatts:***
+***37. La resistencia total de un circuito es de 560 ohmio. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 ohmio que forma parte de la resistencia total en serie?***
 
-![image](https://user-images.githubusercontent.com/116696484/202536271-6f47bea9-1c53-49c8-9a5e-7b7c4eb5de4a.png)
+![image](https://user-images.githubusercontent.com/116696484/203852858-e44f19de-9dc6-4886-90ea-6886090597b5.png)
 
-***8. Convierta las siguientes cantidades en miliwatts:***
+***39. Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).***
 
-![image](https://user-images.githubusercontent.com/116696484/202536442-00263604-7018-49a9-9b8e-c3a8b2c485aa.png)
+![image](https://user-images.githubusercontent.com/116696484/203852930-205fdf00-8430-4fc4-83bb-ba6b9e060ab7.png)
 
-***10. Convierta las siguientes cantidades en watts:***
+***41. ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica***
 
-![image](https://user-images.githubusercontent.com/116696484/202536657-fe7d04bb-0730-43c9-94cd-aef73d4788b6.png)
+![image](https://user-images.githubusercontent.com/116696484/203852980-6e5a5f88-b32c-4291-9e8f-bc70b3642241.png)
 
-***12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?***
+***43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?***
 
-![image](https://user-images.githubusercontent.com/116696484/202536796-53ed2f0b-1c0e-4406-9d79-39624ae014b8.png)
+![image](https://user-images.githubusercontent.com/116696484/203853081-56e4a46d-750c-460e-aec8-11b6ca84e3f9.png)
 
-***14. Convierta 5x106 watts-minutos en kWh***
+***45. Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del 61% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA***
 
-![image](https://user-images.githubusercontent.com/116696484/202536961-6a98063d-7e73-412d-ad51-e6f87b15152a.png)
+![image](https://user-images.githubusercontent.com/116696484/203853161-be84aa26-8031-4510-a888-86ba06e31527.png)
 
-***16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohm para consumir 25 J?***
+***47. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43***
 
-![image](https://user-images.githubusercontent.com/116696484/202537237-52b8c2a5-cd15-40f7-9b78-158c33c4918a.png)
+![image](https://user-images.githubusercontent.com/116696484/203853208-fafefb93-a093-4aec-b311-29e363a4f0ce.png)
 
-***18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?***
 
-![image](https://user-images.githubusercontent.com/116696484/202537484-3f42297f-e47a-4453-a294-8d7d08715f77.png)
+***49. Encuentre RT en la figura 5-89.***
 
-***20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 k ohm?***
+![image](https://user-images.githubusercontent.com/116696484/203853273-b734db02-5b32-4a6f-a929-fa479afaf8c5.png)
 
-![image](https://user-images.githubusercontent.com/116696484/202537706-130593d1-5d01-432b-92bc-5a4b17a6ec85.png)
 
-***22. Si entre los extremos de un resistor de 680 ohm existen 60 V, ¿cuál es la potencia?
+***51. En la figura 5-90, determine el voltaje en cada punto con respecto a tierra.***
 
-![image](https://user-images.githubusercontent.com/116696484/202537865-6e65ab2c-76e4-43dc-a026-43b92210d27c.png)
+![image](https://user-images.githubusercontent.com/116696484/203853346-09a9da1d-0ba8-44e8-b4fd-b6671503c868.png)
 
-***24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.***
 
-![image](https://user-images.githubusercontent.com/116696484/202537989-cba48188-ae3e-4265-a0f5-328f4899b384.png)
+***53. En la figura 5-91, determine el voltaje en cada punto con respecto a tierra***
+
+![image](https://user-images.githubusercontent.com/116696484/203853473-ca140ce2-02a7-4d5f-a8aa-a43ad7898d92.png)
+
+
+***55. Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.***
+
+![image](https://user-images.githubusercontent.com/116696484/203853656-2b4c68ed-0981-4cc1-8af7-59b60414aedb.png)
+
+
+***57. La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.***
+
+![image](https://user-images.githubusercontent.com/116696484/203853910-8e55bb24-3975-4428-94d1-2c2a9bcd030a.png)
+
+
+***59. Se leen 15 k ohmio entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura 5-93. ¿Indica esto un problema? De ser así, identifíquelo***
+
+Si se miden 15 kΩ entre las puntas 2 y 4 significa que están en corto circuito
+
+**2.2 Capítulo 6: Circuitos en paralelo**
 
 ***26. Un resistor de 6.8 k se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.***
 
-![image](https://user-images.githubusercontent.com/116696484/202538129-bb3a5dfa-082e-457c-937a-498342b82bdc.png)
+
 
 ***28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor. ***
 
-![image](https://user-images.githubusercontent.com/116696484/202538306-bddebe79-2e9c-420d-8e89-bf43ad8a0759.png)
+
 
 ***30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10  antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?***
 
-![image](https://user-images.githubusercontent.com/116696484/202538395-51e9062d-0c5c-4082-84e6-db7c910b5bed.png)
+
 
 ***32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?***
 
-![image](https://user-images.githubusercontent.com/116696484/202538462-fbcc454c-a214-482b-8614-8bf6d624b7bc.png)
+
 
 ***34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?***
 
-![image](https://user-images.githubusercontent.com/116696484/202538553-fa734877-48eb-4311-b040-10f1000f817a.png)
 
 ***36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?***
 
-![image](https://user-images.githubusercontent.com/116696484/202538598-5dcda978-d446-4dae-aefc-ff75a0ea361f.png)
+***2. Demuestre que hay 3.6x106 joules en un kilowatt-hora.***
+
+
+***4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?***
+
+
+***6. Convierta las siguientes cantidades en kilowatts:***
+
+
+
+***8. Convierta las siguientes cantidades en miliwatts:***
+
+
+
+***10. Convierta las siguientes cantidades en watts:***
+
+
+***12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?***
+
+
+
+***14. Convierta 5x106 watts-minutos en kWh***
+
+
+
+***16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohm para consumir 25 J?***
+
+
+
+***18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?***
+
+
+
+***20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 k ohm?***
+
+
+
+***22. Si entre los extremos de un resistor de 680 ohm existen 60 V, ¿cuál es la potencia?
+
+
+***24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.***
+
+
+
+***26. Un resistor de 6.8 k se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.***
+
+
+
+***28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor. ***
+
+
+
+***30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10  antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?***
+
+
+
+***32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?***
+
+
+
+***34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?***
+
+
+***36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?***
 
 
 ### 4. VIDEO
