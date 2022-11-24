@@ -213,91 +213,118 @@ Si se miden 15 kΩ entre las puntas 2 y 4 significa que están en corto circuit
 
 **2.2 Capítulo 6: Circuitos en paralelo**
 
-***26. Un resistor de 6.8 k se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.***
+***2. Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.***
+
+![image](https://user-images.githubusercontent.com/116696484/203855980-906076d6-fd20-431a-ae26-b8f26ccc53d6.png)
 
 
+***4. ¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 ohmio? Hay cuatro resistores, todos de igual valor***
 
-***28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor. ***
+![image](https://user-images.githubusercontent.com/116696484/203856031-698175a5-9b7a-4c33-8e92-eecff5f70620.png)
 
+***6. ¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura 6-68?***
 
+![image](https://user-images.githubusercontent.com/116696484/203856072-241ed993-c6c8-46c5-93e0-f7412ea03a69.png)
 
-***30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10  antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?***
+***8. ¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?***
 
-
-
-***32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?***
-
-
-
-***34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?***
+![image](https://user-images.githubusercontent.com/116696484/203856161-4d257ece-bd62-4de4-b70d-107950f168ae.png)
 
 
-***36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?***
+***10. Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de: 50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?***
 
-***2. Demuestre que hay 3.6x106 joules en un kilowatt-hora.***
+![image](https://user-images.githubusercontent.com/116696484/203856209-8f8eb011-fbd3-435b-aa53-17cf9b411519.png)
 
+***12. En cierta habitación, el circuito eléctrico tiene una lámpara de cielo que consume 1.25 A y cuatro tomas de corriente de pared. Dos lámparas de mesa que consumen cada una 0.833 A están conectadas a dos tomas de corriente, y un calentador eléctrico que consume 10 A está conectado a la tercer toma de corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay en la línea principal que  abastece a la habitación? Si la línea principal está protegida por un cortacircuito de 15 A, ¿cuánta corriente puede ser absorbida de la cuarta toma de corriente? Trace un diagrama esquemático de esta instalación eléctrica***
 
-***4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?***
-
-
-***6. Convierta las siguientes cantidades en kilowatts:***
+![image](https://user-images.githubusercontent.com/116696484/203856280-3a30cd7c-2b87-46cd-978f-d49b3d700a2f.png)
 
 
+***14. Los siguientes resistores están conectados en paralelo: 1.0 M ohmio, 2.2 M ohmio, 5.6 ohmio, 12 M ohmio, y 22 M ohmio. Determine la resistencia total***
 
-***8. Convierta las siguientes cantidades en miliwatts:***
+![image](https://user-images.githubusercontent.com/116696484/203856547-b18cd051-76b7-432d-b10d-53cdc5d5e19d.png)
 
+***16. Calcule RT en cada uno de los circuitos de la figura 6-70.***
 
-
-***10. Convierta las siguientes cantidades en watts:***
-
-
-***12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?***
+![image](https://user-images.githubusercontent.com/116696484/203856596-9e1b95c9-0de0-47a6-a153-d20cdbac7874.png)
 
 
+***18. Tres grupos, uno de cinco resistores de 470 ohmio, otro de diez resistores de 100 ohmio, y uno más de dos resistores de 100 ohmio están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos***
 
-***14. Convierta 5x106 watts-minutos en kWh***
-
-
-
-***16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 ohm para consumir 25 J?***
+![image](https://user-images.githubusercontent.com/116696484/203856804-f9796304-bf4c-4cae-9bf3-7f64982e0773.png)
 
 
+***20. Si la resistencia total en la figura 6-71 es de 389.2 Æ, ¿cuál es el valor de R2?***
 
-***18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?***
-
-
-
-***20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 k ohm?***
+![image](https://user-images.githubusercontent.com/116696484/203856865-5f971c10-f5d4-42f6-8bbb-7db639b7d3ff.png)
 
 
+***22. ¿Cuál es la corriente total en cada uno de los circuitos de la figura 6-73?***
 
-***22. Si entre los extremos de un resistor de 680 ohm existen 60 V, ¿cuál es la potencia?
+![image](https://user-images.githubusercontent.com/116696484/203856890-4ff0ac66-1dd5-4e8b-9607-6a43f703c2cc.png)
 
+***24. Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?***
 
-***24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.***
-
-
-
-***26. Un resistor de 6.8 k se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.***
+![image](https://user-images.githubusercontent.com/116696484/203856956-e40590b4-b239-4d5e-a0f2-41f6beaa2128.png)
 
 
+***26. Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura 6-74***
 
-***28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor. ***
-
-
-
-***30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10  antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?***
+![image](https://user-images.githubusercontent.com/116696484/203856990-22c7b991-6eb9-4e58-b6c5-869a3998edde.png)
 
 
+***28. Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para ca da una de las posiciones de interruptor mostradas en la figura 6-76.***
 
-***32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?***
-
-
-
-***34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?***
+![image](https://user-images.githubusercontent.com/116696484/203857064-902bf9a1-1b18-4446-94c2-18a927cdfae5.png)
+![image](https://user-images.githubusercontent.com/116696484/203857087-19ca8fa9-ebe2-4f9d-b2f1-43afa4d2f2f6.png)
 
 
-***36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?***
+***30. Determine la corriente a través de RL en cada uno de los circuitos de la figura 6-78.***
+
+![image](https://user-images.githubusercontent.com/116696484/203857126-cf7c7510-a4e1-4c4b-96a7-1a109eb55a14.png)
+
+
+**32. ¿Cuánta corriente deberán indicar los medidores de la figura 6-80 a través de cada rama?***
+
+![image](https://user-images.githubusercontent.com/116696484/203857198-017a1233-9e49-4559-acac-0e153ecaebda.png)
+
+
+***34. ¿Cuál es la corriente a través de cada resistor mostrado en la figura 6-82? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica***
+
+![image](https://user-images.githubusercontent.com/116696484/203857220-339065d2-1214-4777-97d4-9cd03e3f64fc.png)
+![image](https://user-images.githubusercontent.com/116696484/203857320-0cb8704b-5cb2-4fbf-8e97-09fa4d5bf0d1.png)
+
+***36. (a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura 6-49 si la resistencia del movimiento de medidor es de 50 ohmio. 
+(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura 6-50 (RM= 50 ohmio)***
+
+![image](https://user-images.githubusercontent.com/116696484/203857302-ed76563f-0cb3-4fb5-a76e-a74c6d74e6c5.png)
+
+
+***38. Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?***
+
+P=5(250 mW)=1.25 W
+
+***40. Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W. ¿Cuál es la corriente a través de cada foco, y cuál es la corriente total***
+
+![image](https://user-images.githubusercontent.com/116696484/203857414-294438ab-68d8-46ac-961e-e28e1444f845.png)
+
+***42. Cierto circuito en paralelo está compuesto por resistores de sólo 1 ⁄2 W. La resistencia total es de 1.0 k ohmio, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente: (a) El número de resistores, (b) El valor de cada resistor, (c) La corriente en cada rama ,(d) El voltaje aplicado***
+
+![image](https://user-images.githubusercontent.com/116696484/203857472-7d233e2a-f63f-49d4-a1a2-c95cec9b7669.png)
+
+
+***44. En la figura 6-85, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?***
+
+![image](https://user-images.githubusercontent.com/116696484/203857818-a398c1ee-badc-4cdb-a8e6-5cc3782cde96.png)
+
+***46. ¿Qué está mal con el circuito de la figura 6-86 si el medidor lee 5.55 mA?***
+
+![image](https://user-images.githubusercontent.com/116696484/203857719-29b3c1b8-446d-424b-9562-84fdff9cd0c4.png)
+
+***48. Para la tarjeta de circuito mostrada en la figura 6-88, determine la resistencia entre las siguientes puntas si hay un corto entre las puntas 2 y 4: (a) 1 y 2 (b) 2 y 3 (c) 3 y 4 (d) 1 y 4***
+
+![image](https://user-images.githubusercontent.com/116696484/203857844-e1473de1-ffb9-41aa-a89c-80f5c60ddd2d.png)
+
 
 
 ### 4. VIDEO
