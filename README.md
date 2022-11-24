@@ -64,19 +64,30 @@ Aprender a seleccionar resistores adecuados en base a la potencia del circuito e
 
 **2.2.1 Resistores en paralelo**
 
+![image](https://user-images.githubusercontent.com/116696484/203859542-de5c9b39-f768-4a6c-a1cd-2fddd70aa5e4.png)
+
 **2.2.2 Voltaje en un circuito en paralelo**
+
+![image](https://user-images.githubusercontent.com/116696484/203860048-a73d01a3-0722-4ff0-889e-f62f90681efb.png)
 
 **2.2.3 Ley de las corrientes de Kirchhoff**
 
-**2.2.4  Resistencia total en paralelo**
+![image](https://user-images.githubusercontent.com/116696484/203860168-5c7c2d0b-3235-4c8a-a1b0-4b807031761f.png)
 
-**2.2.5 Aplicación de la ley de Ohm**
+**2.2.4 Resistencia total en paralelo**
 
-**2.2.6 Fuentes de corriente en paralelo**
+![image](https://user-images.githubusercontent.com/116696484/203861106-fbcef3d5-e4ab-4307-85f5-737b92242659.png)
 
-**2.2.7 Divisores de corriente**
+**2.2.5 Fuentes de corriente en paralelo**
 
-**2.2.8 Potencia en circuitos en paralelo** 
+![image](https://user-images.githubusercontent.com/116696484/203861685-a4a65a8c-5bb9-4ac8-b268-181d4fcb7799.png)
+
+**2.2.6 Divisores de corriente**
+
+![image](https://user-images.githubusercontent.com/116696484/203862912-8e593ff1-14d4-4361-8502-5031f86ad8b9.png)
+
+**2.2.7 Potencia en circuitos en paralelo** 
+
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
